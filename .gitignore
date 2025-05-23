@@ -1,15 +1,15 @@
 # Ignore NetBeans project files
-nbproject/
-nbproject/private/
+/nbproject/
+/nbproject/private/
 
 # Ignore build output
-build/
-dist/
+/build/
+/dist/
 
 # Ignore compiled class files
-*.class
+/*.class
 
 # Ignore system files
-manifest.mf
-Thumbs.db
-build
+/manifest.mf
+/Thumbs.db
+/build
