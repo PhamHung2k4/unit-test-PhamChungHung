@@ -1,4 +1,4 @@
-# Unit Test - [Họ tên]
+# unit-test-PhamChungHung
 
 ## 📌 Mô tả
 Bài tập kiểm thử đơn vị (unit test) bằng JUnit. Gồm 2 hàm:
@@ -17,7 +17,4 @@ Bài tập kiểm thử đơn vị (unit test) bằng JUnit. Gồm 2 hàm:
 ## ✅ Yêu cầu
 - Java 8+
 - JUnit 4/5
-
-## 👨‍💻 Tác giả
-[Họ tên sinh viên]
 
